@@ -18,7 +18,7 @@
   "devDependencies": {
     "@netlify/hydrogen-platform": "^1.0.0",
     "@shopify/cli": "3.3.3",
-    "@shopify/cli-hydrogen": "3.3.3",
+    "@shopify/cli-hydrogen": "8.4.1",
     "@shopify/prettier-config": "^1.1.2",
     "@tailwindcss/forms": "^0.5.2",
     "@tailwindcss/typography": "^0.5.2",
@@ -43,7 +43,7 @@
   "dependencies": {
     "@headlessui/react": "^1.6.4",
     "@heroicons/react": "^1.0.6",
-    "@shopify/hydrogen": "^1.1.0",
+    "@shopify/hydrogen": "^2024.7.4",
     "clsx": "^1.1.1",
     "contentful": "^9.1.33",
     "graphql-tag": "^2.12.6",
